@@ -8,3 +8,9 @@ https://www.kaggle.com/lalbabusah/titanic-machine-learning-from-disaster
 
 ## Predict Future Sales
 https://www.kaggle.com/lalbabusah/predict-future-sales
+
+## Digit Recognizer
+https://www.kaggle.com/lalbabusah/digit-recognizer
+
+## Natural Language Processing with Disaster Tweets
+https://www.kaggle.com/lalbabusah/natural-language-processing-with-disaster-tweets
