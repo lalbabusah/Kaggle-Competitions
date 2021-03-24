@@ -9,7 +9,7 @@ https://www.kaggle.com/lalbabusah/titanic-machine-learning-from-disaster
 ## Predict Future Sales
 https://www.kaggle.com/lalbabusah/predict-future-sales
 
-## Digit Recognizer - computer vision fundamentals
+## Digit Recognizer - Computer Vision Fundamentals
 https://www.kaggle.com/lalbabusah/digit-recognizer
 
 ## Natural Language Processing with Disaster Tweets
