@@ -1,4 +1,4 @@
-# Kaggle-Competitions
+# Kaggle - Competitions
 
 ## House Prices - Advanced Regression Techniques
 https://www.kaggle.com/lalbabusah/house-prices-advanced-regression-techniques
